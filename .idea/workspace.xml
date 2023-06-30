@@ -4,20 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8665025-4c52-43f2-beb1-53f97a44be1c" name="Changes" comment="" />
+    <list default="true" id="c8665025-4c52-43f2-beb1-53f97a44be1c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 Bootstrap Button/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 Bootstrap Button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 Bootstrap Button/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 Bootstrap card/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 Bootstrap card/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 Bootstrap card/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 Dropdown Button/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 Dropdown Button/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 Dropdown Button/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21 Bootstrap progress bar/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21 Bootstrap progress bar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21 Bootstrap progress bar/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 Bootstrap Placeholders/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 Bootstrap Placeholders/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 Bootstrap Placeholders/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23 Bootstrap Pagination/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23 Bootstrap Pagination/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23 Bootstrap Pagination/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 Bootstrap offcanvas/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 Bootstrap offcanvas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24 Bootstrap offcanvas/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25 Bootstrap Modal/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25 Bootstrap Modal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25 Bootstrap Modal/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26 Bootstrap Model More CSS Classes/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26 Bootstrap Model More CSS Classes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26 Bootstrap Model More CSS Classes/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16 Bootstrap alert/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/16 Bootstrap alert/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2ReQAlY9kWLfveNWWD913NO9XfJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -36,11 +76,17 @@
       <updated>1687607926386</updated>
       <workItem from="1687607927721" duration="24000" />
       <workItem from="1687607973595" duration="996000" />
-      <workItem from="1687709207804" duration="2267000" />
+      <workItem from="1687709207804" duration="4777000" />
+      <workItem from="1688038788275" duration="3874000" />
+      <workItem from="1688096924379" duration="7678000" />
+      <workItem from="1688132045398" duration="1175000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
